@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import LoginPage from './pages/LoginPage';
 import SignUpPage from './pages/SignUpPage';
 import HomePage from './pages/Home/HomePage';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 import WatchPage from './pages/WatchPage';
 import SearchPage from './pages/SearchPage';
 import NotFoundPage from './pages/404';
